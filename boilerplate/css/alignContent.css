@@ -8,3 +8,21 @@ body {
     align-items: flex-start;
     flex-wrap: wrap;
 }
+.start{
+    align-content: flex-start;
+}
+.flex-end{
+    align-content: flex-end;
+}
+.center{
+    align-content: center;
+}
+.space-around{
+    align-content: space-around;
+}
+.space-between{
+    align-content: space-between;
+}
+.space-evenly{
+    align-content: space-evenly;
+}
