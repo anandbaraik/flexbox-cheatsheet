@@ -33,7 +33,7 @@ Go to the project directory
 - flex-shrink
 - flex-basis
 
-## Link
+## Go Live
 
 🔗 [Start live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
